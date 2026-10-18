@@ -1,5 +1,5 @@
 public class Greeting{
         public static void main(String[] args){
-		System.out.print("Hello Smit: ");
+		System.out.print("Good Morning, Smit: ");
         }
 }
